@@ -249,7 +249,7 @@ font-weight: 300;
 }
 .service .container{
     display: grid;
-    grid-template-columns: repeat(auto-fit , minmax(28rem, 1fr));
+    grid-template-columns: repeat(auto-fit , minmax(38rem, 1fr));
     gap: 2rem;
     padding: 2.5rem 0;
     grid-row-gap: 4rem;
@@ -266,6 +266,7 @@ font-weight: 300;
 .service .container .service-box img{
     width: 100%;
     border-radius: 10px;
+
 
 }
 .service .container .service-box .service-content h3{
